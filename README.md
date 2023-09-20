@@ -11,3 +11,9 @@ C#/.NET client/server application examples using
 
 ## Simple.Windows.NTService
 A Simple Windows NT Service doing nothing using the [topshelf](https://topshelf.readthedocs.io/en/latest/index.html) library
+
+## ClientServer.InterProcessCommunication
+An example of a Windows Client Server application based on
+- Windows NT Service
+- Namepipe process communication
+
